@@ -1,17 +1,13 @@
-import logo from './assets/logo.svg';
-import './App.css';
+import React from 'react';
+import './App.scss';
+
+import Intro from './containers/Intro';
 
 function App() {
+  
   return (
     <div className="App">
-
-        <img src={logo} className="App-logo" alt="logo" />
-        <div className="lang-select-box">
-          <a href=''>NL</a>
-          <a href=''>FR</a>
-          <a href=''>ENG</a>
-        </div>
-
+      <Intro/>
     </div>
   );
 }
