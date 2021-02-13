@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hygiene-expert/static/css/main.9613b511.chunk.css",
+    "main.css": "/hygiene-expert/static/css/main.6edeedae.chunk.css",
     "main.js": "/hygiene-expert/static/js/main.d04b4433.chunk.js",
     "main.js.map": "/hygiene-expert/static/js/main.d04b4433.chunk.js.map",
     "runtime-main.js": "/hygiene-expert/static/js/runtime-main.32dbddbb.js",
@@ -10,14 +10,14 @@
     "static/js/3.6604d1e7.chunk.js": "/hygiene-expert/static/js/3.6604d1e7.chunk.js",
     "static/js/3.6604d1e7.chunk.js.map": "/hygiene-expert/static/js/3.6604d1e7.chunk.js.map",
     "index.html": "/hygiene-expert/index.html",
-    "static/css/main.9613b511.chunk.css.map": "/hygiene-expert/static/css/main.9613b511.chunk.css.map",
+    "static/css/main.6edeedae.chunk.css.map": "/hygiene-expert/static/css/main.6edeedae.chunk.css.map",
     "static/js/2.458abb53.chunk.js.LICENSE.txt": "/hygiene-expert/static/js/2.458abb53.chunk.js.LICENSE.txt",
     "static/media/logo.42064448.svg": "/hygiene-expert/static/media/logo.42064448.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.32dbddbb.js",
     "static/js/2.458abb53.chunk.js",
-    "static/css/main.9613b511.chunk.css",
+    "static/css/main.6edeedae.chunk.css",
     "static/js/main.d04b4433.chunk.js"
   ]
 }
