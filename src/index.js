@@ -4,6 +4,24 @@ import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { setTranslationConfig } from "@psyycker/react-translation" //call first
+import "@psyycker/react-translation"
+
+import { registerTranslations } from "@psyycker/react-translation";
+import french from "./assets/text/french.json";
+import english from "./assets/text/english.json";
+import dutch from "./assets/text/dutch.json";
+
+setTranslationConfig({
+  defaultLocale: "EN" //sets default lang.
+})
+
+registerTranslations({
+  "EN": english,
+  "FR": french,
+  "NL": dutch
+})
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
